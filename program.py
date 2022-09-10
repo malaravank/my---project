@@ -1,4 +1,6 @@
-value = 10
+from man import Man
+
+man = Man('A')
 print("Hello")
-print("value")
+print(man.value)
 
