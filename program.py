@@ -1,6 +1,8 @@
 from man import Man
 
-man = Man('A')
+man1 = Man('A')
+man2 = Man('B')
 print("Hello")
-print(man.value)
+print(man1.value)
+print(man2,value)
 
